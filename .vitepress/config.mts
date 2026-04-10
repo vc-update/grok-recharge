@@ -139,6 +139,7 @@ export default defineConfig({
           text: '深度评测',
           items: [
             { text: '全部文章', link: '/blog/' },
+            { text: '🆕 Grok代充：国内最稳定的SuperGrok代充教程', link: '/blog/grok-daichong-supergrok-zuiwendig-jiaocheng-2026' },
             { text: '🆕 2026最新Grok Super代充教程', link: '/blog/grok-super-recharge-guide-2026' },
             { text: '🆕 SuperGrok年付vs月付对比', link: '/blog/supergrok-annual-vs-monthly' },
             { text: '🆕 Grok4功能中文指南', link: '/blog/grok4-features-chinese-guide' },

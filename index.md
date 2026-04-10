@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Grok代充 - 2026国内SuperGrok代充值平台 | 微信支付宝直付
-description: 专业Grok代充平台，SuperGrok会员代充值服务，微信支付宝付款，5分钟到账，安全零封号。国内Grok代充首选。
+title: Grok代充 - 2026国内SuperGrok代充值平台 | 微信支付宝直付（4月更新）
+description: 2026年4月更新！专业Grok代充平台，SuperGrok会员代充值服务，微信支付宝付款，5分钟到账，安全零封号。国内Grok代充首选，已服务5000+用户。
 
 hero:
   name: "Grok代充平台"
   text: "国内专业Grok代充 · 5分钟到账"
-  tagline: "无需海外信用卡，微信/支付宝直接付款。仅凭Grok账号ID即可完成代充，无需任何密码。已累计服务5000+国内用户，安全零封号记录。"
+  tagline: "2026年4月实测可用 | 无需海外信用卡，微信/支付宝直接付款。仅凭Grok账号ID即可完成代充，无需任何密码。已累计服务5000+国内用户，安全零封号记录。"
   actions:
     - theme: brand
       text: ⚡ 立即代充 →
@@ -85,7 +85,7 @@ features:
 
 ## 为什么免费版Grok不够用？
 
-2026年最新情况：Grok免费版已大幅缩水。免费用户每2小时仅10次对话、Think模式不到5次、图片生成每天个位数，Grok4几乎完全锁定在付费版。想正经用Grok做点事？SuperGrok是唯一选择。
+2026年最新情况：Grok免费版已大幅缩水。免费用户每2小时仅10次对话、Think模式不到5次、图片生成每天个位数，**Grok4几乎完全锁定在付费版**。4月更新后限制更严，连 DeepSearch 的免费额度也缩了一半。想正经用Grok做点事？SuperGrok是唯一选择。
 
 👉 [详细了解免费版限制 →](/blog/grok-free-limits-2026)
 
@@ -113,6 +113,7 @@ features:
 
 ## 热门文章
 
+- 🆕 [Grok代充：国内最稳定的SuperGrok代充教程（2026年4月实测）](/blog/grok-daichong-supergrok-zuiwendig-jiaocheng-2026)
 - 🔥 [Grok 4.2多智能体实测：四Agent同时干活是什么体验？](/blog/grok-42-multi-agent-review)
 - 💰 [SuperGrok年会员订阅指南：年付$300省17%](/blog/supergrok-annual-subscription-guide)
 - 🏢 [SuperGrok Heavy深度解析：$300/月值不值？](/blog/supergrok-heavy-review)
