@@ -1,12 +1,22 @@
 ---
 layout: home
-title: Grok代充 - 2026国内SuperGrok代充值平台 | 微信支付宝直付（4月更新）
-description: 2026年4月更新！专业Grok代充平台，SuperGrok会员代充值服务，微信支付宝付款，5分钟到账，安全零封号。国内Grok代充首选，已服务5000+用户。
+title: Grok代充 - 国内SuperGrok代充值平台｜Grok充值教程_微信支付宝直付（2026年4月更新）
+description: 2026年4月更新！国内专业Grok代充平台，提供SuperGrok会员代充值、Grok充值、Grok4解锁服务。微信支付宝付款，仅凭账号ID无需密码，5分钟到账。Grok代充首选平台，已服务5000+用户，安全零封号。支持SuperGrok月付/年付/Heavy全套餐代充。
+head:
+  - - meta
+    - name: keywords
+      content: Grok代充,Grok代充值,SuperGrok代充,Grok充值,Grok国内充值,SuperGrok代充值,Grok代充平台,Grok怎么充值,SuperGrok怎么开通,Grok会员代充,Grok充值教程,SuperGrok订阅,Grok代充安全吗,Grok代充靠谱吗,Grok4解锁,Grok国内怎么订阅,SuperGrok月付,SuperGrok年付,Grok代充价格,国内Grok代充,xAI代充,Grok充值方法,Grok微信充值,Grok支付宝充值
+  - - meta
+    - property: og:title
+      content: Grok代充 - 国内SuperGrok代充值平台｜微信支付宝直付5分钟到账
+  - - meta
+    - property: og:description
+      content: 国内专业Grok代充平台，SuperGrok会员代充值，Grok4模型解锁。微信支付宝付款，仅凭ID无需密码，5分钟到账。已服务5000+用户，安全零封号。
 
 hero:
-  name: "Grok代充平台"
-  text: "国内专业Grok代充 · 5分钟到账"
-  tagline: "2026年4月实测可用 | 无需海外信用卡，微信/支付宝直接付款。仅凭Grok账号ID即可完成代充，无需任何密码。已累计服务5000+国内用户，安全零封号记录。"
+  name: "Grok代充 · SuperGrok代充值"
+  text: "国内Grok充值首选平台 · 5分钟到账"
+  tagline: "2026年4月实测可用 | 无需海外信用卡，微信/支付宝直接付款。仅凭Grok账号ID即可完成代充，无需任何密码。支持SuperGrok月付$30/年付$300/Heavy全套餐。已累计服务5000+国内用户，安全零封号记录。"
   actions:
     - theme: brand
       text: ⚡ 立即代充 →
@@ -57,6 +67,17 @@ features:
     <div class="label">每天在线</div>
   </div>
 </div>
+
+## 为什么选我们做Grok代充？
+
+国内想充值Grok/SuperGrok，遇到的问题无非就是：**银行卡被拒、没有海外信用卡、虚拟卡平台跑路、不知道哪家代充靠谱**。我们的代充服务专门解决这些问题：
+
+- **Grok代充零门槛**：不需要海外信用卡，微信支付宝直接付款
+- **只要账号ID不要密码**：你的Grok聊天记录、账号安全完全不受影响
+- **SuperGrok全套餐覆盖**：月付$30、年付$300（省17%）、Heavy $300/月都能充
+- **正规支付通道**：通过xAI官方渠道完成订阅，和你自己信用卡付款完全一样
+
+👉 [Grok代充安全吗？风险避坑指南 →](/blog/grok-recharge-safety-guide)
 
 ## Grok代充只需4步
 
@@ -113,14 +134,26 @@ features:
 
 ## 热门文章
 
+- 🆕 [Grok国内充值指南：最详细的SuperGrok代充教程（2026最新）](/news/grok-guonei-chongzhi-supergrok-daichong-jiaocheng-2026)
 - 🆕 [Grok代充：国内最稳定的SuperGrok代充教程（2026年4月实测）](/blog/grok-daichong-supergrok-zuiwendig-jiaocheng-2026)
 - 🔥 [Grok 4.2多智能体实测：四Agent同时干活是什么体验？](/blog/grok-42-multi-agent-review)
 - 💰 [SuperGrok年会员订阅指南：年付$300省17%](/blog/supergrok-annual-subscription-guide)
 - 🏢 [SuperGrok Heavy深度解析：$300/月值不值？](/blog/supergrok-heavy-review)
-- 🛡️ [2026年Grok代充安全吗？风险避坑指南](/blog/grok-recharge-safety-guide)
+- 🛡️ [Grok代充安全吗？2026年风险避坑指南](/blog/grok-recharge-safety-guide)
 - 🏆 [Grok代充哪家靠谱？国内代充平台选择攻略](/blog/grok-recharge-platform-guide)
 - 🔥 [2026最新Grok代充教程：国内最全SuperGrok代充指南](/blog/grok-recharge-tutorial-2026)
 - 📊 [SuperGrok vs 免费版Grok：值不值得花这30美元？](/blog/supergrok-vs-free)
 - 🚀 [Grok4深度评测：编程、推理、创作实测](/blog/grok4-review)
 - ⚔️ [Grok vs ChatGPT vs Claude：2026年AI三巨头横评](/blog/grok-vs-chatgpt-vs-claude)
-- 📖 [国内Grok代充完整教程：从注册到使用](/guide/recharge-process)
+- 📖 [Grok国内代充完整教程：从注册到使用全流程](/guide/recharge-process)
+
+## Grok代充常见问题速答
+
+**Q: Grok代充多少钱？**
+SuperGrok月付代充约220元/月，年付约2100元/年（省17%）。具体价格以当日汇率为准，[查看最新价格](/pricing)。
+
+**Q: Grok怎么充值最方便？**
+找靠谱的代充平台是最省心的方式。只需提供Grok账号ID，微信/支付宝付款，5分钟到账。[查看代充流程](/guide/recharge-process)
+
+**Q: SuperGrok和免费版Grok区别大吗？**
+区别非常大。免费版每2小时仅10次对话，Grok4完全锁定；SuperGrok每天约1000次对话，解锁Grok4全部功能。[详细对比](/blog/supergrok-vs-free)

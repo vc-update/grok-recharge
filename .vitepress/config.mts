@@ -13,7 +13,7 @@ export default defineConfig({
   },
 
   head: [
-    ['meta', { name: 'keywords', content: 'Grok代充,Grok代充值,SuperGrok代充,SuperGrok代充值,Grok充值,SuperGrok订阅,Grok会员代充,SuperGrok会员,Grok4,Grok代充平台,国内Grok代充,Grok会员开通,SuperGrok代开通,Grok余额代充,xAI代充' }],
+    ['meta', { name: 'keywords', content: 'Grok代充,Grok代充值,SuperGrok代充,SuperGrok代充值,Grok充值,Grok国内充值,SuperGrok订阅,Grok会员代充,SuperGrok会员,Grok4,Grok代充平台,国内Grok代充,Grok会员开通,SuperGrok代开通,Grok余额代充,xAI代充,Grok怎么充值,Grok充值教程,SuperGrok怎么开通,Grok代充安全吗,Grok代充靠谱吗,Grok代充价格,Grok微信充值,Grok支付宝充值' }],
     ['meta', { name: 'robots', content: 'index,follow,max-snippet:-1,max-image-preview:large' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['link', { rel: 'canonical', href: 'https://grok-recharge.com' }],
@@ -110,6 +110,7 @@ export default defineConfig({
         text: '📰 Grok资讯',
         items: [
           { text: '全部资讯', link: '/news/' },
+          { text: '🆕 Grok国内充值指南：SuperGrok代充教程', link: '/news/grok-guonei-chongzhi-supergrok-daichong-jiaocheng-2026' },
           { text: '🆕 Grok 4.2多智能体实战教程', link: '/news/grok-42-multi-agent-practical-guide-2026' },
           { text: '🆕 SuperGrok订阅三档对比攻略', link: '/news/supergrok-subscription-plan-comparison-guide-2026' },
           { text: '🆕 Grok国内充值保姆级教程', link: '/news/grok-china-recharge-guide-2026' },
@@ -167,6 +168,7 @@ export default defineConfig({
           text: 'Grok资讯',
           items: [
             { text: '全部资讯', link: '/news/' },
+            { text: '🆕 Grok国内充值指南：SuperGrok代充教程', link: '/news/grok-guonei-chongzhi-supergrok-daichong-jiaocheng-2026' },
             { text: '🆕 Grok 4.2多智能体实战教程', link: '/news/grok-42-multi-agent-practical-guide-2026' },
             { text: '🆕 SuperGrok订阅三档对比攻略', link: '/news/supergrok-subscription-plan-comparison-guide-2026' },
             { text: '🆕 Grok国内充值保姆级教程', link: '/news/grok-china-recharge-guide-2026' },
