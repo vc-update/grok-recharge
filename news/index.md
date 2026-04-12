@@ -17,6 +17,7 @@ head:
 
 ### SuperGrok教程与选购
 
+- 🆕 [SuperGrok代充多少钱？2026最新Grok代充价格与省钱攻略](/news/supergrok-daichong-price-guide-2026) — 三档代充价格明细、费用拆解、5个省钱技巧，花最少的钱用上最强Grok
 - 🆕 [Grok国内充值指南：最详细的SuperGrok代充教程（2026最新）](/news/grok-guonei-chongzhi-supergrok-daichong-jiaocheng-2026) — 从注册到充值全流程，5分钟搞定SuperGrok，微信支付宝直付
 - 🆕 [Grok 4.2多智能体实战教程：4个AI Agent协作办公的正确打开方式](/news/grok-42-multi-agent-practical-guide-2026) — 8大实战场景+Prompt模板，让Grok 4.2真正为你干活
 - 🆕 [SuperGrok订阅全攻略：月会员/年会员/Heavy三档怎么选？](/news/supergrok-subscription-plan-comparison-guide-2026) — 三档套餐功能、价格、限额全对比，附决策树和代充指南

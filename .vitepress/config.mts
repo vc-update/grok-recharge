@@ -110,6 +110,7 @@ export default defineConfig({
         text: '📰 Grok资讯',
         items: [
           { text: '全部资讯', link: '/news/' },
+          { text: '🆕 SuperGrok代充多少钱？价格与省钱攻略', link: '/news/supergrok-daichong-price-guide-2026' },
           { text: '🆕 Grok国内充值指南：SuperGrok代充教程', link: '/news/grok-guonei-chongzhi-supergrok-daichong-jiaocheng-2026' },
           { text: '🆕 Grok 4.2多智能体实战教程', link: '/news/grok-42-multi-agent-practical-guide-2026' },
           { text: '🆕 SuperGrok订阅三档对比攻略', link: '/news/supergrok-subscription-plan-comparison-guide-2026' },
@@ -168,6 +169,7 @@ export default defineConfig({
           text: 'Grok资讯',
           items: [
             { text: '全部资讯', link: '/news/' },
+            { text: '🆕 SuperGrok代充多少钱？价格与省钱攻略', link: '/news/supergrok-daichong-price-guide-2026' },
             { text: '🆕 Grok国内充值指南：SuperGrok代充教程', link: '/news/grok-guonei-chongzhi-supergrok-daichong-jiaocheng-2026' },
             { text: '🆕 Grok 4.2多智能体实战教程', link: '/news/grok-42-multi-agent-practical-guide-2026' },
             { text: '🆕 SuperGrok订阅三档对比攻略', link: '/news/supergrok-subscription-plan-comparison-guide-2026' },
