@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: Grok4 vs ChatGPT,Grok4对比ChatGPT5,Grok4哪个好,ChatGPT5.4,Grok4功能,SuperGrok对比,Grok还是ChatGPT,2026最强AI,Grok代充,Grok4评测
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok4 vs ChatGPT 5.4：2026年哪个AI更强？深度横评

@@ -11,7 +11,7 @@ head:
   - - meta
     - property: og:description
       content: 官网自充 vs 找代充，费用、难度、风险全面对比，国内开通SuperGrok哪种最省心？
-date: 2026-04-16
+date: 2026-04-18
 ---
 
 # Grok官网充值 vs 代充：国内哪种方式更省心？（2026最新对比）

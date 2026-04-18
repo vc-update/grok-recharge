@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: Grok4功能,Grok4使用教程,Grok4中国用户,Grok4怎么用,Grok4模型,Grok4 DeepSearch,Grok4多模态,Grok4代充,Grok4开通,Grok4订阅,SuperGrok Grok4
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok4完整功能解析：中国用户如何使用Grok4全部能力？

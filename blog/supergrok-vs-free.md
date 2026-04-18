@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: SuperGrok对比,Grok代充,Grok免费版,SuperGrok值不值,SuperGrok代充,Grok会员代充,Grok充值
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # SuperGrok vs 免费版Grok：值不值得花这30美元？

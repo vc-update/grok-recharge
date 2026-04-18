@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: SuperGrok年会员,SuperGrok年付,SuperGrok月付,SuperGrok订阅,SuperGrok年会员代充,Grok年会员,SuperGrok价格,SuperGrok年付优惠,Grok代充年付
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # SuperGrok年付vs月付：哪个更划算？年会员完整指南（2026）

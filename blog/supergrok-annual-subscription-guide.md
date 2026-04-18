@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/blog/supergrok-annual-subscription-guide
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # SuperGrok年会员订阅指南：年付$300省17%，国内代充开通教程

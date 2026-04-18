@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/blog/grok-recharge-safety-guide
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # 2026年Grok代充安全吗？风险避坑与正规代充选择指南

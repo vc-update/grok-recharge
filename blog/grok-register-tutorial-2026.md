@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/blog/grok-register-tutorial-2026
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok国内注册+充值一站式教程（2026最新）

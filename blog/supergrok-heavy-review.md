@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/blog/supergrok-heavy-review
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # SuperGrok Heavy深度解析：$300/月的企业级AI到底值不值？

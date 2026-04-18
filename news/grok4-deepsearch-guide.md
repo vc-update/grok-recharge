@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: Grok DeepSearch,Grok深度搜索,Grok4搜索功能,DeepSearch实测,Grok代充,SuperGrok DeepSearch,Grok搜索对比Google,Grok充值,Grok代充教程,SuperGrok充值
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok4 DeepSearch深度搜索实测：比Google搜索更强？

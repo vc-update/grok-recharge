@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/blog/grok-42-multi-agent-review
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok 4.2 多智能体实测：四个AI同时干活是什么体验？

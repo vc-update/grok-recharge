@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/blog/grok-recharge-platform-guide
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok代充哪家靠谱？2026国内Grok代充平台选择攻略

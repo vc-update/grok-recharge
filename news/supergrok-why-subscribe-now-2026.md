@@ -17,7 +17,7 @@ head:
   - - meta
     - property: og:type
       content: article
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # 2026年4月Grok免费版又限额了！为什么现在是开通SuperGrok的最佳时机？

@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: Grok代充指南,Grok代充,SuperGrok订阅,SuperGrok订阅教程,国内SuperGrok,Grok代充教程2026,Grok充值,Grok会员订阅,SuperGrok开通,Grok4解锁
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # 2026 最新Grok代充指南：国内SuperGrok订阅教程

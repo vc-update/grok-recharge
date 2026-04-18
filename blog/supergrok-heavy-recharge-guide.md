@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: SuperGrok Heavy,SuperGrok Heavy充值,SuperGrok Heavy订阅,SuperGrok Heavy代充,Grok Heavy,Grok4 Heavy,SuperGrok Heavy开通,SuperGrok Heavy价格,Grok企业版
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # SuperGrok Heavy充值开通教程：企业级AI怎么订阅？

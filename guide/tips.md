@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: Grok使用技巧,Grok代充,Grok怎么用,Grok Prompt,Grok Think模式,Grok DeepSearch,SuperGrok使用
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok使用技巧：让AI回答更精准

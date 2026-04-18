@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: Grok注册,Grok代充,Grok注册教程,Grok怎么注册,Grok使用教程,Grok入门,grok.com注册
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok注册与使用入门

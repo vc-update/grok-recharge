@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: xAI最新动态,Grok4发布,Grok4.2,Grok4.20,SuperGrok更新,Grok发展历程,xAI 2026,Grok代充,Grok充值,SuperGrok充值,Grok最新消息
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # 2026年xAI最新动态：从Grok4到Grok4.20，SuperGrok发展全回顾

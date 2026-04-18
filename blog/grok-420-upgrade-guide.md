@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/blog/grok-420-upgrade-guide
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok 4.20 升级开通全攻略：免费版/SuperGrok/Heavy 怎么选？

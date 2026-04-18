@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/news/grok-42-multi-agent-practical-guide-2026
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok 4.2多智能体实战教程：4个AI Agent协作办公的正确打开方式

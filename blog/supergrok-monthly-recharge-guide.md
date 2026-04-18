@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: SuperGrok月会员,SuperGrok充值,Grok充值,Grok代充,SuperGrok月会员充值,国内Grok充值,SuperGrok开通,Grok月会员,SuperGrok订阅,Grok充值教程
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # SuperGrok月会员充值全攻略：仅凭ID 5分钟到账（2026最新）

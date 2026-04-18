@@ -5,7 +5,7 @@ head:
   - - meta
     - name: keywords
       content: Grok4评测,Grok代充,Grok4功能,Grok4.2,Grok4.20,Grok4推理,SuperGrok代充,Grok代充值,xAI
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok4深度评测：推理之王是否名副其实？

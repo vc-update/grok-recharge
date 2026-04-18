@@ -11,7 +11,7 @@ head:
   - - link
     - rel: canonical
       href: https://grok-recharge.com/news/grok-china-market-xai-expansion-guide-2026
-date: 2026-04-13
+date: 2026-04-18
 ---
 
 # Grok入华最新进展：xAI进军中国市场意味着什么？国内用户现在怎么用Grok？
