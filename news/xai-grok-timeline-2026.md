@@ -1,5 +1,5 @@
 ---
-title: 2026年xAI最新动态：从Grok4到Grok4.20，SuperGrok发展全回顾 | Grok代充
+title: 2026年xAI最新动态：从Grok4到Grok4.20，SuperGrok发展全回顾 | Grok代充平台
 description: 2026年xAI和Grok发展时间线全回顾，从Grok4发布到Grok4.2多智能体、Grok4.20 Beta，梳理每次重大更新。国内用户如何通过Grok代充体验最新功能。
 head:
   - - meta
