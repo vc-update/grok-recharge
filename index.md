@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Grok代充 | SuperGrok代充值 | 国内Grok充值平台 | 微信支付宝5分钟到账【2026年4月】
+title: Grok代充 - 国内SuperGrok代充平台，微信支付宝付款，5分钟到账
 description: 2026年4月最新Grok代充平台，SuperGrok会员代充值服务。无需密码仅凭账号ID，微信支付宝直付，5分钟极速到账。解锁Grok4/Grok4.2旗舰模型，安全零封号，已服务5000+国内用户。提供月会员/年会员/Heavy三档代充方案。
 head:
   - - meta
@@ -8,8 +8,8 @@ head:
       content: Grok代充,Grok充值,SuperGrok代充,SuperGrok代充值,Grok代充值,SuperGrok充值,Grok会员代充,SuperGrok月会员,SuperGrok年会员,SuperGrok Heavy,Grok代充平台,国内Grok代充,Grok4代充,Grok代充安全,Grok代充多少钱
 
 hero:
-  name: "Grok代充平台"
-  text: "国内专业Grok代充 · 5分钟到账"
+  name: "Grok代充"
+  text: "SuperGrok代充首选平台"
   tagline: "无需海外信用卡，微信/支付宝直接付款。仅凭Grok账号ID即可完成代充，无需任何密码。已累计服务5000+国内用户，安全零封号记录。"
   actions:
     - theme: brand
