@@ -11,6 +11,10 @@ head:
   - - meta
     - property: og:description
       content: 2026年4月最新Grok代充价格：月会员约220-260元，年会员约2000-2200元。官方汇率对比、降价技巧、靠谱渠道推荐。
+  - - script
+    - type: application/ld+json
+    - |
+      {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Grok代充多少钱？","acceptedAnswer":{"@type":"Answer","text":"2026年4月Grok代充参考价格：SuperGrok月会员约220-260元/月，年会员约2000-2200元/年，Heavy约2000-2200元/月。实际价格随汇率浮动，以客服报价为准。"}},{"@type":"Question","name":"SuperGrok代充比官方贵吗？","acceptedAnswer":{"@type":"Answer","text":"代充价格通常比官方美元换算价高5-20%，这是境外支付成本和人工服务成本。但对国内用户来说，国内银行卡无法直接充值，代充是唯一稳定可靠的方式。"}},{"@type":"Question","name":"Grok代充月会员和年会员哪个划算？","acceptedAnswer":{"@type":"Answer","text":"年会员年付$300比月付$30x12=$360省$60（约436元）。建议新用户先充月会员体验1-2个月，确认长期需要后再选年会员。"}},{"@type":"Question","name":"Grok代充价格低于150元是正常的吗？","acceptedAnswer":{"@type":"Answer","text":"不正常。月会员官方价格$30折合约218元，低于150元的报价大概率使用黑卡（盗刷信用卡），可能导致账号被xAI封禁，强烈建议避开。"}}]}
 date: 2026-04-18
 ---
 
@@ -221,44 +225,3 @@ Heavy的额度是普通SuperGrok的10倍，但大多数用户发现普通SuperGr
 - [SuperGrok订阅全攻略：月会员/年会员/Heavy三档怎么选？](/news/supergrok-subscription-plan-comparison-guide-2026)
 - [Grok官网充值 vs 代充：国内哪种方式更省心？](/news/grok-official-recharge-vs-daichong-2026)
 - [Grok国内如何充值？2026最新SuperGrok代充保姆级教程](/news/grok-china-recharge-guide-2026)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Grok代充多少钱？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "2026年4月Grok代充参考价格：SuperGrok月会员约220-260元/月，年会员约2000-2200元/年，Heavy约2000-2200元/月。实际价格随汇率浮动，以客服报价为准。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "SuperGrok代充比官方贵吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "代充价格通常比官方美元换算价高5-20%，这是境外支付成本和人工服务成本。但对国内用户来说，国内银行卡无法直接充值，代充是唯一稳定可靠的方式。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Grok代充月会员和年会员哪个划算？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "年会员年付$300比月付$30×12=$360省$60（约436元）。建议新用户先充月会员体验1-2个月，确认长期需要后再选年会员。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Grok代充价格低于150元是正常的吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "不正常。月会员官方价格$30折合约218元，低于150元的报价大概率使用黑卡（盗刷信用卡），可能导致账号被xAI封禁，强烈建议避开。"
-      }
-    }
-  ]
-}
-</script>
