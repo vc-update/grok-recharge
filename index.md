@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Grok代充 - 国内SuperGrok代充平台，微信支付宝付款，5分钟到账
+title: Grok代充 | Grok充值 | Grok订阅 | 国内如何使用Grok
 description: 2026年4月最新Grok代充平台，SuperGrok会员代充值服务。无需密码仅凭账号ID，微信支付宝直付，5分钟极速到账。解锁Grok4/Grok4.2旗舰模型，安全零封号，已服务5000+国内用户。提供月会员/年会员/Heavy三档代充方案。
 head:
   - - meta
