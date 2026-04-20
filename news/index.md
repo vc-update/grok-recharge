@@ -16,6 +16,11 @@ date: 2026-04-18
 
 ## 🔥 最新文章
 
+### 其他AI代充
+
+- 🆕 [Claude Max代充教程：国内如何订阅Claude Max？微信支付宝5分钟开通](/news/claude-max-daichong-guide-2026) — $100/$200两档详解，Pro额度5倍/20倍，国内微信支付宝正规代充
+- 🆕 [Gemini Advanced代充教程：国内如何订阅Gemini Ultra？](/news/gemini-advanced-daichong-guide-2026) — $19.99/月含2TB存储+Google全家桶AI，国内代充完整教程
+
 ### SuperGrok安全与价格
 
 - 🆕 [Grok代充安全吗？2026年真实风险分析+零封号操作指南](/news/grok-daichong-anquan-ma-fengxian-zhinan-2026) — 只需账号ID不需密码，封号率为零。5大危险信号识别+5000+用户真实数据，帮你判断代充是否靠谱
@@ -37,6 +42,8 @@ date: 2026-04-18
 
 ### Grok代充教程
 
+- 🆕 [Grok国内最新代充指南：银行卡正规充值，支持官网年会员充值！](/news/grok-china-bank-recharge-guide-2026) — 无需海外信用卡，微信/支付宝正规充值，月会员/年会员/Heavy全支持
+- 🆕 [SuperGrok年会员代充教程：$300/年省17%，国内怎么开通年会员？](/news/supergrok-annual-plan-daichong-guide-2026) — 年付省$60相当于白得两个月，完整代充流程+省钱账单分析
 - 🆕 [Grok官网充值 vs 代充：国内哪种方式更省心？（2026最新对比）](/news/grok-official-recharge-vs-daichong-2026) — 虚拟卡自充 vs 找代充，费用/难度/风险全面拆解，帮你选出最省心的SuperGrok充值方式
 - 🆕 [Grok国内如何充值？2026最新SuperGrok代充保姆级教程](/news/grok-china-recharge-guide-2026) — 从0到1的保姆级充值指南，照着做就行
 - 🆕 [Grok Super 代充教程（2026最新）：国内充值完整指南](/news/grok-super-daichong-tutorial) — 深度解析代充原理、操作步骤、平台选择
