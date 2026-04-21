@@ -323,12 +323,11 @@ Grok 4.2 需要 SuperGrok 订阅才能使用。国内银行卡无法直接在 xA
 
 ### SuperGrok 月会员代充（$30/月）
 
-操作最简单，只需4步：
+操作最简单，只需3步：
 
-1. **登录 grok.com** → 点击头像 → 复制你的**账号ID**
-2. **添加客服微信** **Luv12203**
-3. **发送账号ID + 微信/支付宝付款**
-4. **5分钟到账**，刷新页面即可选择 Grok 4.2 模型
+1. **登录 grok.com** → Settings → 复制你的**账号ID**
+2. **购买充值卡密**：前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1)，微信/支付宝付款
+3. **自助激活**：打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/)，输入账号ID + 卡密，**立即生效**，刷新页面即可选择 Grok 4.2 模型
 
 ::: tip 安全说明
 代充**全程不需要密码**，只需账号ID。客服无法登录你的账号。已累计服务5000+用户，零封号记录。
@@ -344,11 +343,19 @@ Grok 4.2 需要 SuperGrok 订阅才能使用。国内银行卡无法直接在 xA
 
 ## 联系客服
 
-**客服微信：Luv12203**
+<div class="service-cta">
 
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="SuperGrok代充客服微信二维码" style="max-width: 280px;" />
+### ⚡ SuperGrok月会员 — 自助充值
 
-每天 9:00-23:00 在线 ｜ 微信/支付宝直付 ｜ 5分钟到账 ｜ 零封号风险
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
+</div>
 
 ---
 

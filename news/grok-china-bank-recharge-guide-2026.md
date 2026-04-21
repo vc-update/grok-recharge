@@ -79,32 +79,23 @@ date: 2026-04-16
 
 ## 四、充值流程（月会员）
 
-月会员是最常见的选择，流程最简单：
+月会员是最常见的选择，全程自助，流程最简单：
 
-### 第1步：添加客服微信
+### 第1步：获取账号ID
 
-微信搜索 **Luv12203** 或扫描文末二维码，添加客服好友。
+登录 grok.com，点击左侧头像 → Settings，复制你的账号ID。
 
-### 第2步：说明需求
+### 第2步：购买充值卡密
 
-添加后告知：「我要充SuperGrok月会员」，客服会确认当日报价并开始引导。
+前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1)，微信或支付宝付款，获取卡密。
 
-### 第3步：提供账号ID
+### 第3步：自助激活
 
-**月会员只需提供你的Grok账号ID，不需要密码。**
+打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/)，输入账号ID和卡密，提交后立即生效。
 
-如何找到你的账号ID：
-- 登录 grok.com，点击左侧头像
-- 进入个人资料页
-- 复制页面URL中 `/user/` 后面的字符串，即为账号ID
+### 第4步：到账确认
 
-### 第4步：扫码付款
-
-客服发来付款码（微信/支付宝均可），扫码完成付款。
-
-### 第5步：到账确认
-
-付款后客服即刻操作，通常**5分钟内完成**。完成后刷新grok.com，页面显示SuperGrok即代表充值成功。
+刷新 grok.com，页面显示 SuperGrok 即代表充值成功。
 
 ---
 
@@ -169,15 +160,15 @@ date: 2026-04-16
 
 <div class="service-cta">
 
-### 📞 立即开始Grok代充
+### ⚡ SuperGrok月会员 — 自助充值
 
-国内银行卡正规充值，扫码添加客服微信 **Luv12203**：
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
 
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 - 微信号Luv12203" class="wechat-qrcode" />
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
 
-✅ 微信/支付宝付款 ｜ ✅ 月会员无需密码 ｜ ✅ 年会员/Heavy全支持 ｜ ✅ 5分钟到账
-
-客服在线时间：每天 9:00-23:00
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
 
 </div>
 

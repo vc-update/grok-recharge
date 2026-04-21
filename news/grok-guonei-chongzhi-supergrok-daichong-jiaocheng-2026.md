@@ -120,38 +120,29 @@ head:
 **方法二：直接告诉客服你的注册邮箱**
 客服可以通过你的注册邮箱确认账号，同样不需要密码。
 
-### 第3步：联系代充客服
+### 第3步：购买充值卡密
 
-添加微信客服 **Luv12203**，发送"**Grok代充**"。
-
-客服会问你：
-- 要充什么套餐（SuperGrok月付/年付/Heavy）
-- 你的Grok账号ID或注册邮箱
+前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1)，微信或支付宝付款，获取卡密。
 
 ### 第4步：选择套餐
 
-| 套餐 | 官方价 | 代充价（参考） | 说明 |
-|:----|:------|:-----------|:-----|
-| SuperGrok月付 | $30/月 | ~220元/月 | ⭐ 大多数人的选择 |
-| SuperGrok年付 | $300/年 | ~2100元/年 | 省17%，长期用更划算 |
-| SuperGrok Heavy | $300/月 | 详询客服 | 无限制使用，专业需求 |
+| 套餐 | 官方价 | 说明 |
+|:----|:------|:-----|
+| SuperGrok月付 | $30/月 | ⭐ 大多数人的选择，自助充值 |
+| SuperGrok年付 | $300/年 | 省17%，长期用更划算，联系客服 Luv12203 |
+| SuperGrok Heavy | $300/月 | 无限制使用，专业需求，联系客服 Luv12203 |
 
 > **选哪个？** 新用户建议先月付试一个月，觉得好再转年付省钱。
 
 > 📖 详细对比：[SuperGrok年付vs月付对比分析](/blog/supergrok-annual-vs-monthly)
 
-### 第5步：微信/支付宝付款
+### 第5步：自助激活（月会员）
 
-客服发送付款码，微信或支付宝扫码支付即可。**不需要海外信用卡，国内支付方式直接搞定**。
+打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/)，输入你的账号ID和卡密，立即生效。
 
-### 第6步：等待到账
+### 第6步：确认到账
 
-付款后客服会立即操作充值。**通常5分钟内完成**，最快2-3分钟。
-
-到账后客服会通知你，你也可以自己验证：
-1. 打开 [grok.com](https://grok.com)
-2. 检查是否显示"SuperGrok"标识
-3. 试着切换到Grok4模型，能选就说明成功了
+打开 [grok.com](https://grok.com)，检查是否显示"SuperGrok"标识，能选就说明成功了。
 
 ---
 
@@ -306,13 +297,18 @@ SuperGrok没有"永久"选项，只有月付和年付。声称一次付款永久
 
 ## 九、立即开始Grok代充
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>🔥 Grok代充 · SuperGrok代充值</h3>
-    <p>💬 添加微信客服：<strong>Luv12203</strong>，发送「Grok代充」</p>
-    <p>💰 SuperGrok月付~220元 ｜ 年付~2100元（省17%）</p>
-    <p>⚡ 微信/支付宝直付 ｜ 5分钟到账 ｜ 只需ID不需密码</p>
-  </div>
+<div class="service-cta">
+
+### ⚡ SuperGrok月会员 — 自助充值
+
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
 </div>
 
 ---
