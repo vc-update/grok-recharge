@@ -80,40 +80,18 @@ SuperGrok 官方只接受以下支付方式：
 
 ### 3.3 完整充值步骤
 
-<div class="steps-flow">
-  <div class="step">
-    <div class="num">1</div>
-    <h4>添加客服微信</h4>
-    <p>微信搜索 <strong>Luv12203</strong> 添加客服</p>
-  </div>
-  <div class="step">
-    <div class="num">2</div>
-    <h4>发送充值需求</h4>
-    <p>发送「SuperGrok月会员代充」，客服确认价格</p>
-  </div>
-  <div class="step">
-    <div class="num">3</div>
-    <h4>提供账号ID</h4>
-    <p>将你的 Grok User ID 发给客服（仅ID，不需要密码）</p>
-  </div>
-  <div class="step">
-    <div class="num">4</div>
-    <h4>微信/支付宝付款</h4>
-    <p>客服发送收款码，扫码完成支付</p>
-  </div>
-  <div class="step">
-    <div class="num">5</div>
-    <h4>5分钟到账</h4>
-    <p>刷新 grok.com 页面，即可看到 SuperGrok 标识</p>
-  </div>
-</div>
+<div class="service-cta">
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>🔥 立即充值SuperGrok月会员</h3>
-    <p>添加客服微信 <strong>Luv12203</strong>，发送「SuperGrok月会员」，5分钟到账！</p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="SuperGrok月会员代充客服微信二维码 Luv12203" />
+### ⚡ SuperGrok月会员 — 自助充值
+
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
 </div>
 
 ---
@@ -189,12 +167,14 @@ SuperGrok 月会员还支持 Grok 4.2 的四Agent并行工作模式：Grok、Har
 
 <div class="service-cta">
 
-### 立即开通SuperGrok月会员
+### ⚡ SuperGrok月会员 — 自助充值
 
-客服微信：**Luv12203** ｜ 每天 9:00-23:00 在线
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
 
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="SuperGrok月会员代充客服微信二维码" class="wechat-qrcode" />
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
 
-微信/支付宝付款，5分钟到账，零封号风险
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
 
 </div>
