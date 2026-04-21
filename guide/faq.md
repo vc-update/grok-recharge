@@ -56,15 +56,13 @@ xAI的充值系统支持通过账号ID进行付款操作，类似于你给朋友
 <summary>充值流程是怎样的？</summary>
 <div class="answer">
 
-非常简单，5步搞定：
+**月会员自助充值，3步搞定：**
 
-1. **添加客服微信** Luv12203
-2. **说明需求**（如"开通SuperGrok月付"）
-3. **发送Grok账号ID**
-4. **扫码付款**（微信/支付宝）
-5. **5分钟内到账**，客服通知确认
+1. 登录 grok.com → Settings → 复制**Grok账号ID**
+2. 前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1) 购买充值卡密（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
 
-全程有真人客服1对1指导，不用担心操作问题。
+年会员（$300/年）和Heavy（$300/月）请联系客服微信 **Luv12203** 手动办理。
 
 </div>
 </details>
@@ -73,7 +71,9 @@ xAI的充值系统支持通过账号ID进行付款操作，类似于你给朋友
 <summary>充值需要多长时间？</summary>
 <div class="answer">
 
-从添加客服到充值完成，正常情况下**5-15分钟**。其中大部分时间是沟通需求和付款操作，实际充值到账非常快。高峰时段可能稍有延迟，但一般不超过30分钟。
+**月会员**：购买卡密后，输入账号ID和卡密，**立即生效**，整个过程几分钟内完成。
+
+**年会员/Heavy**：联系客服微信 Luv12203 后，正常情况 5-15 分钟完成，高峰时段可能稍有延迟。
 
 </div>
 </details>
@@ -98,9 +98,9 @@ xAI的充值系统支持通过账号ID进行付款操作，类似于你给朋友
 1. 登录 [grok.com](https://grok.com)
 2. 点击右上角头像 → 设置/Settings
 3. 找到「账号信息」或「Account」下的用户ID
-4. 复制发送给客服
+4. 复制备用
 
-找不到的话不用着急，添加客服微信后会手把手教你。
+月会员自助充值时，在 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 页面输入账号ID和卡密即可。
 
 </div>
 </details>
@@ -213,7 +213,9 @@ SuperGrok用户：
 <summary>到期后怎么续费？</summary>
 <div class="answer">
 
-快到期时联系客服微信 Luv12203 即可续费，流程和首次充值一样简单。建议在到期前3天联系续费，避免服务中断。
+**月会员续费**：重新前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1) 购买卡密，然后在 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和新卡密完成续费，全程自助操作。
+
+**年会员/Heavy续费**：联系客服微信 Luv12203，流程和首次开通一样简单，建议到期前3天联系。
 
 </div>
 </details>
@@ -239,10 +241,12 @@ SuperGrok用户：
 
 <div class="service-cta">
 
-### 还有其他问题？
+### 月会员自助充值 / 年会员Heavy联系客服
 
-添加客服微信 **Luv12203** 直接咨询，有问必答。
+**月会员**：👉 [购买卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)，购买后前往 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 完成充值
 
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码" class="wechat-qrcode" />
+**年会员/Heavy**：添加客服微信 **Luv12203** 直接咨询，有问必答。
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员/Heavy代充客服微信二维码" class="wechat-qrcode" />
 
 </div>
