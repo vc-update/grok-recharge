@@ -1,75 +1,90 @@
 ---
-title: 联系我们 | Grok代充平台
-description: Grok代充平台客服联系方式，微信扫码添加客服Luv12203，咨询SuperGrok代充、Grok代充值、售后问题。
+title: Grok代充 - 月会员自助充值 | 年会员/Heavy联系客服
+description: SuperGrok月会员全自动代充，购买卡密后输入账号ID立即生效，无需等待。年会员和Heavy套餐请联系客服微信Luv12203办理。
 head:
   - - meta
     - name: keywords
-      content: Grok代充联系,Grok代充客服,Grok代充微信,SuperGrok代充联系
+      content: Grok代充,SuperGrok月会员代充,Grok自助充值,Grok代充客服,SuperGrok代充微信,Grok年会员代充
 ---
 
-# 📞 联系Grok代充客服
+# Grok代充 - 选择你的充值方式
 
-## 微信客服
+## ⚡ SuperGrok 月会员 — 全自动自助充值
+
+月会员支持全自动充值，3步完成，无需等待：
+
+<div class="steps-flow">
+  <div class="step">
+    <div class="num">1</div>
+    <h4>获取账号ID</h4>
+    <p>登录 grok.com → 右上角头像 → Settings → 复制账号ID</p>
+  </div>
+  <div class="step">
+    <div class="num">2</div>
+    <h4>购买卡密</h4>
+    <p>前往自助购卡平台，微信/支付宝付款获取卡密</p>
+  </div>
+  <div class="step">
+    <div class="num">3</div>
+    <h4>完成充值</h4>
+    <p>打开充值页面，输入账号ID和卡密，立即生效</p>
+  </div>
+</div>
+
+<div style="text-align: center; padding: 30px 0;">
+
+### 👇 月会员自助充值入口
+
+<a href="https://chatgpta1.top/item/1" style="display:inline-block; background: #646cff; color: white; padding: 14px 32px; border-radius: 8px; font-size: 18px; font-weight: bold; text-decoration: none; margin: 10px;">
+⚡ 立即购买卡密 →
+</a>
+
+<p style="margin-top: 16px; color: #666;">购买卡密后，前往 <a href="https://quickplus.vip/public/grok/" target="_blank"><strong>quickplus.vip/public/grok/</strong></a> 输入账号ID和卡密完成充值</p>
+
+</div>
+
+---
+
+## 📋 如何获取我的Grok账号ID？
+
+1. 登录 [grok.com](https://grok.com)
+2. 点击右上角头像，进入 **Settings（设置）**
+3. 在账户信息中找到你的 **账号ID**（一串字母数字）
+4. 复制账号ID备用
+
+> 充值全程只需账号ID，**绝不需要密码**，安全零风险。
+
+---
+
+## 💳 年会员 / Heavy — 联系客服微信
+
+年会员（$300/年）和Heavy（$300/月）套餐需要联系客服微信手动办理：
 
 <div style="text-align: center; padding: 40px 0;">
 
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" class="wechat-qrcode-large" />
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode-large" />
 
 ### 微信号：Luv12203
 
 **扫码添加 或 微信搜索 Luv12203**
 
+客服在线时间：**每天 9:00 - 23:00**（北京时间）
+
 </div>
 
-## 服务时间
+### 年会员/Heavy客服能帮你什么？
 
-**每天 9:00 - 23:00**（北京时间）
-
-高峰时段可能稍有延迟，但每条消息都会回复。
-
-## 我们能帮你什么？
-
-### ⚡ SuperGrok会员开通
-- SuperGrok月付/年付代开通
-- X Premium/Premium+代开通
-- 方案咨询和推荐
-
-### 💳 Grok余额充值
-- 按需充值，灵活金额
-- API额度充值
-- 企业批量充值
-
-### 📖 使用指导
-- Grok注册指导
-- 账号ID获取帮助
-- SuperGrok功能使用教程
-
-### 🔧 售后服务
-- 充值到账确认
-- 续费提醒和办理
-- 使用问题解答
-
-## 联系流程
-
-1. **扫码或搜索微信号 Luv12203 添加客服**
-2. **发送你的需求**（如"Grok代充"或"开通SuperGrok"）
-3. **客服1对1指导**完成全部流程
-
-## 常见问题快速入口
-
-在联系客服之前，你可能想先了解：
-
-- 📖 [充值流程详解](/guide/recharge-process) — 充值前先看看流程
-- 💰 [套餐价格总览](/pricing) — 了解各方案价格
-- ❓ [常见问题FAQ](/guide/faq) — 自助解答常见疑问
-- 🔒 [SuperGrok功能详情](/service/supergrok) — 了解能解锁什么
+- ✅ SuperGrok 年会员（$300/年，省17%）开通
+- ✅ SuperGrok Heavy（$300/月）开通
+- ✅ Claude Max 代充（$100/$200/月）
+- ✅ Gemini Advanced 代充（$19.99/月）
+- ✅ 充值售后、续费、使用问题解答
 
 ---
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>💬 还在犹豫？先加个微信聊聊</h3>
-    <p>不充值也没关系，任何关于Grok的问题都可以免费咨询。客服微信：<strong>Luv12203</strong></p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
-</div>
+## 常见问题快速入口
+
+- 📖 [充值流程详解](/guide/recharge-process) — 月会员充值教程
+- 💰 [套餐价格总览](/pricing) — 了解各方案价格
+- ❓ [常见问题FAQ](/guide/faq) — 自助解答常见疑问
+- 🔒 [SuperGrok功能详情](/service/supergrok) — 了解能解锁什么

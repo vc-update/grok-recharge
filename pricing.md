@@ -96,14 +96,26 @@ head:
 
 SuperGrok官方只支持海外信用卡，国内银行卡无法直接支付。
 
-我们提供代充值服务：**微信/支付宝直付，5分钟到账**。
+**月会员：全自动自助充值**，购买卡密后输入账号ID立即生效，支持微信/支付宝付款。
+
+**年会员/Heavy：** 联系客服微信 **Luv12203** 办理，同样支持微信/支付宝。
 
 只需提供Grok账号ID（不需要密码），安全零封号。
 
+<div class="service-cta">
+
+### ⚡ 月会员 — 自助充值
+
+👉 [立即购买卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)
+
+购买卡密后，前往 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密完成充值
+
+</div>
+
 <div class="wechat-cta">
   <div class="text">
-    <h3>⚡ 获取实时报价</h3>
+    <h3>💳 年会员/Heavy — 联系客服</h3>
     <p>添加微信 <strong>Luv12203</strong>，告诉我们你的需求，即刻获取最新人民币报价。</p>
   </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
+  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员/Heavy代充客服微信二维码 Luv12203" />
 </div>
