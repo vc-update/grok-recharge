@@ -110,6 +110,7 @@ export default defineConfig({
       {
         text: '💳 Grok代充服务',
         items: [
+          { text: 'SuperGrok Heavy 是什么？2026年最新套餐解析与国内代充指南', link: '/guide/supergrok-heavy-guide-2026-04' },
           { text: 'SuperGrok代充', link: '/service/supergrok' },
           { text: 'Grok余额代充', link: '/service/recharge' },
           { text: 'Grok代充价格', link: '/pricing' }
