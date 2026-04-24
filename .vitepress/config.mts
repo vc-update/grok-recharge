@@ -110,6 +110,7 @@ export default defineConfig({
       {
         text: '💳 Grok代充服务',
         items: [
+          { text: 'Grok官网充值完整指南：套餐对比、充值步骤与常见问题解答', link: '/guide/grok-guanwang-chongzhi-guide-2026-04' },
           { text: 'Grok代充教程2026：国内开通SuperGrok会员最省心的方式', link: '/guide/grok-recharge-tutorial-2026-04-423' },
           { text: 'SuperGrok Heavy 是什么？国内如何订阅开通完整指南（2026年4月）', link: '/guide/supergrok-heavy-subscribe-guide-2026-04' },
           { text: 'Grok代充值教程：一站式解决海外AI工具订阅难题', link: '/guide/grok-recharge-tutorial-2026-04' },
