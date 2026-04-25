@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'Grok代充 | Grok充值 | Grok订阅 | 国内如何使用Grok',
+  title: 'Grok代充 - 国内SuperGrok代充首选平台 | 微信支付宝直付',
   description: 'Grok代充首选平台，提供SuperGrok月会员/年会员/Heavy代充值服务。无需密码仅凭账号ID，微信支付宝即可付款，5分钟极速到账。解锁Grok4/Grok4.2旗舰模型，安全零封号，已服务5000+国内用户。2026年4月最新价格与教程。',
 
   lastUpdated: true,
@@ -52,6 +52,13 @@ export default defineConfig({
         "@type": "ContactPoint",
         "contactType": "customer service",
         "availableLanguage": "Chinese"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "5000",
+        "bestRating": "5",
+        "worstRating": "1"
       }
     })],
     // JSON-LD FAQ 结构化数据 — 争取搜索结果富文本展示
@@ -107,76 +114,11 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '🏠 首页', link: '/' },
-      {
-        text: '💳 Grok代充服务',
-        items: [
-          { text: 'Grok官网充值完整指南：套餐对比、充值步骤与常见问题解答', link: '/guide/grok-guanwang-chongzhi-guide-2026-04' },
-          { text: 'Grok代充教程2026：国内开通SuperGrok会员最省心的方式', link: '/guide/grok-recharge-tutorial-2026-04-423' },
-          { text: 'SuperGrok Heavy 是什么？国内如何订阅开通完整指南（2026年4月）', link: '/guide/supergrok-heavy-subscribe-guide-2026-04' },
-          { text: 'Grok代充值教程：一站式解决海外AI工具订阅难题', link: '/guide/grok-recharge-tutorial-2026-04' },
-          { text: 'SuperGrok Heavy 是什么？2026年最新套餐解析与国内代充指南', link: '/guide/supergrok-heavy-guide-2026-04' },
-          { text: 'SuperGrok代充', link: '/service/supergrok' },
-          { text: 'Grok余额代充', link: '/service/recharge' },
-          { text: 'Grok代充价格', link: '/pricing' }
-        ]
-      },
-      {
-        text: '📖 代充教程',
-        items: [
-          { text: 'Grok注册与使用入门', link: '/guide/getting-started' },
-          { text: 'Grok代充流程详解', link: '/guide/recharge-process' },
-          { text: 'Grok使用技巧', link: '/guide/tips' },
-          { text: 'Grok代充FAQ', link: '/guide/faq' }
-        ]
-      },
-      {
-        text: '📰 深度评测',
-        items: [
-          { text: '全部文章', link: '/blog/' },
-          { text: '🆕 2026最新Grok Super代充教程', link: '/blog/grok-super-recharge-guide-2026' },
-          { text: '🆕 SuperGrok年付vs月付对比', link: '/blog/supergrok-annual-vs-monthly' },
-          { text: '🆕 Grok4功能中文指南', link: '/blog/grok4-features-chinese-guide' },
-          { text: '🆕 SuperGrok Heavy开通教程', link: '/blog/supergrok-heavy-recharge-guide' },
-          { text: '🆕 Grok4 vs ChatGPT 5.4横评', link: '/blog/grok4-vs-chatgpt5-2026' },
-          { text: '🆕 SuperGrok月会员充值攻略', link: '/blog/supergrok-monthly-recharge-guide' },
-          { text: '🔥 Grok 4.2多智能体实测', link: '/blog/grok-42-multi-agent-review' },
-          { text: '💰 SuperGrok年会员指南', link: '/blog/supergrok-annual-subscription-guide' },
-          { text: '🏢 SuperGrok Heavy解析', link: '/blog/supergrok-heavy-review' },
-          { text: '🛡️ Grok代充安全吗？', link: '/blog/grok-recharge-safety-guide' },
-          { text: '🏆 Grok代充哪家靠谱？', link: '/blog/grok-recharge-platform-guide' },
-          { text: '🔥 Grok 4.20升级开通攻略', link: '/blog/grok-420-upgrade-guide' },
-          { text: '📝 Grok国内注册+充值教程', link: '/blog/grok-register-tutorial-2026' },
-          { text: '🔥 2026最新Grok代充教程', link: '/blog/grok-recharge-tutorial-2026' },
-          { text: '🆕 2026最新Grok代充指南', link: '/blog/grok-recharge-guide-2026' },
-          { text: 'Grok免费版限制解析', link: '/blog/grok-free-limits-2026' },
-          { text: 'SuperGrok vs 免费版', link: '/blog/supergrok-vs-free' },
-          { text: 'Grok4深度评测', link: '/blog/grok4-review' },
-          { text: 'Grok vs ChatGPT vs Claude', link: '/blog/grok-vs-chatgpt-vs-claude' }
-        ]
-      },
-      {
-        text: '📰 Grok资讯',
-        items: [
-          { text: '全部资讯', link: '/news/' },
-          { text: '🆕 Claude Max代充教程', link: '/news/claude-max-daichong-guide-2026' },
-          { text: '🆕 Gemini Advanced代充教程', link: '/news/gemini-advanced-daichong-guide-2026' },
-          { text: '🆕 Grok国内银行卡正规充值指南', link: '/news/grok-china-bank-recharge-guide-2026' },
-          { text: '🆕 SuperGrok年会员代充教程', link: '/news/supergrok-annual-plan-daichong-guide-2026' },
-          { text: '🆕 Grok官网充值 vs 代充对比', link: '/news/grok-official-recharge-vs-daichong-2026' },
-          { text: '🆕 SuperGrok Heavy代充教程（2026最全）', link: '/news/supergrok-heavy-daichong-guide-2026' },
-          { text: '🆕 SuperGrok代充价格指南', link: '/news/supergrok-daichong-price-guide-2026' },
-          { text: '🆕 Grok代充安全吗？风险分析+零封号指南', link: '/news/grok-daichong-anquan-ma-fengxian-zhinan-2026' },
-          { text: '🆕 Grok代充多少钱？2026最新价格指南', link: '/news/grok-daichong-duoshao-qian-jiage-zhinan-2026' },
-          { text: '🆕 Grok免费版限额！为什么要开通SuperGrok', link: '/news/supergrok-why-subscribe-now-2026' },
-          { text: '🆕 Grok入华进展与国内使用指南', link: '/news/grok-china-market-xai-expansion-guide-2026' },
-          { text: '🆕 Grok 4.2多智能体实战教程', link: '/news/grok-42-multi-agent-practical-guide-2026' },
-          { text: '🆕 SuperGrok订阅三档对比攻略', link: '/news/supergrok-subscription-plan-comparison-guide-2026' },
-          { text: '🆕 Grok国内充值保姆级教程', link: '/news/grok-china-recharge-guide-2026' },
-          { text: '🔍 Grok4 DeepSearch深度搜索实测', link: '/news/grok4-deepsearch-guide' },
-          { text: '⚔️ Grok4 vs Gemini 3.1 vs Claude 4', link: '/news/grok4-vs-gemini-vs-claude-2026' },
-          { text: '🚀 xAI发展全回顾2026', link: '/news/xai-grok-timeline-2026' }
-        ]
-      },
+      { text: '💳 Grok代充服务', link: '/service/supergrok' },
+      { text: '📖 代充教程', link: '/guide/getting-started' },
+      { text: '📰 深度评测', link: '/blog/' },
+      { text: '📰 Grok资讯', link: '/news/' },
+      { text: '⭐ 用户评价', link: '/testimonials' },
       { text: '📞 联系代充', link: '/contact' }
     ],
 
@@ -185,10 +127,16 @@ export default defineConfig({
         {
           text: 'Grok代充教程',
           items: [
+            { text: 'Grok代充教程2026：国内开通Grok会员最省心的方法', link: '/guide/grok-recharge-guide-2026-04' },
             { text: 'Grok注册与使用入门', link: '/guide/getting-started' },
             { text: 'Grok代充流程详解', link: '/guide/recharge-process' },
             { text: 'Grok使用技巧', link: '/guide/tips' },
-            { text: 'Grok代充FAQ', link: '/guide/faq' }
+            { text: 'Grok代充FAQ', link: '/guide/faq' },
+            { text: 'Grok官网充值完整指南', link: '/guide/grok-guanwang-chongzhi-guide-2026-04' },
+            { text: 'Grok代充教程2026：最省心的方式', link: '/guide/grok-recharge-tutorial-2026-04-423' },
+            { text: 'SuperGrok Heavy 订阅开通完整指南', link: '/guide/supergrok-heavy-subscribe-guide-2026-04' },
+            { text: 'Grok代充值教程：一站式解决订阅难题', link: '/guide/grok-recharge-tutorial-2026-04' },
+            { text: 'SuperGrok Heavy 套餐解析与代充指南', link: '/guide/supergrok-heavy-guide-2026-04' }
           ]
         }
       ],
@@ -198,6 +146,7 @@ export default defineConfig({
           items: [
             { text: '全部文章', link: '/blog/' },
             { text: '🆕 Grok代充怎么充？SuperGrok代充完整教程', link: '/blog/grok-daichong-zenme-chong-supergrok-jiaocheng-2026' },
+            { text: '🆕 国内最稳定的SuperGrok代充教程', link: '/blog/grok-daichong-supergrok-zuiwendig-jiaocheng-2026' },
             { text: '🆕 2026最新Grok Super代充教程', link: '/blog/grok-super-recharge-guide-2026' },
             { text: '🆕 SuperGrok年付vs月付对比', link: '/blog/supergrok-annual-vs-monthly' },
             { text: '🆕 Grok4功能中文指南', link: '/blog/grok4-features-chinese-guide' },
@@ -253,7 +202,8 @@ export default defineConfig({
           items: [
             { text: 'SuperGrok代充', link: '/service/supergrok' },
             { text: 'Grok余额代充', link: '/service/recharge' },
-            { text: 'Grok代充价格', link: '/pricing' }
+            { text: 'Grok代充价格', link: '/pricing' },
+            { text: '用户真实评价', link: '/testimonials' }
           ]
         }
       ]
