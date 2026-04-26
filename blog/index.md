@@ -12,6 +12,10 @@ date: 2026-04-18
 
 最新Grok代充教程、功能评测和行业资讯。每篇文章基于真实数据和使用体验，帮你做出明智决策。
 
+<div style="margin: 24px 0;">
+  <a href="https://chatgpta1.top/" target="_blank" rel="noopener" style="display: inline-block; background: linear-gradient(135deg, #6366f1, #8b5cf6); color: #fff; font-size: 16px; font-weight: 600; padding: 12px 32px; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 14px rgba(99,102,241,0.4);">⚡ 立即自助代充</a>
+</div>
+
 ---
 
 ## 🔥 热门文章
