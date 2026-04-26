@@ -127,6 +127,7 @@ export default defineConfig({
         {
           text: 'Grok代充教程',
           items: [
+            { text: 'SuperGrok充值完整指南：功能解析、套餐对比与代充教程（2026年4月）', link: '/guide/supergrok-recharge-guide-2026-04' },
             { text: '2026年4月 Grok充值完全指南：国内3种方式亲测对比，支付宝/微信轻松开通SuperGrok', link: '/guide/grok-recharge-guide-2026-04-426' },
             { text: 'Grok订阅完整指南：国内如何充值升级SuperGrok（2026年最新教程）', link: '/guide/grok-subscription-guide-202604' },
             { text: 'Grok代充教程2026：国内开通Grok会员最省心的方法', link: '/guide/grok-recharge-guide-2026-04' },
