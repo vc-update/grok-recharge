@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'Grok代充 - 国内SuperGrok代充首选平台 | 微信支付宝直付',
-  description: 'Grok代充首选平台，提供SuperGrok月会员/年会员/Heavy代充值服务。无需密码仅凭账号ID，微信支付宝即可付款，5分钟极速到账。解锁Grok4/Grok4.2旗舰模型，安全零封号，已服务5000+国内用户。2026年4月最新价格与教程。',
+  title: 'Grok官网 | Grok代充 | Grok充值 | SuperGrok国内订阅指南',
+  description: '2026年4月最新Grok官网充值与SuperGrok国内订阅指南，覆盖Grok官网入口、Grok代充、Grok充值和SuperGrok开通方式。无需密码仅凭账号ID，微信支付宝即可付款，5分钟极速到账。',
 
   lastUpdated: true,
   cleanUrls: true,
@@ -23,8 +23,8 @@ export default defineConfig({
     ['meta', { name: 'keywords', content: 'Grok代充,Grok代充值,SuperGrok代充,SuperGrok代充值,Grok充值,SuperGrok订阅,Grok会员代充,SuperGrok会员,Grok4,Grok代充平台,国内Grok代充,Grok会员开通,SuperGrok代开通,Grok余额代充,xAI代充,Grok代充安全,Grok代充多少钱,Grok4代充,Grok国内充值' }],
     ['meta', { name: 'robots', content: 'index,follow,max-snippet:-1,max-image-preview:large' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
-    ['meta', { property: 'og:title', content: 'Grok代充 - 国内SuperGrok代充值平台 | 微信支付宝直付' }],
-    ['meta', { property: 'og:description', content: '专业Grok代充平台，SuperGrok会员代充值，微信支付宝直付，无需密码仅凭ID，5分钟到账。安全零封号，已服务5000+用户。' }],
+    ['meta', { property: 'og:title', content: 'Grok官网 | Grok代充 | Grok充值 | SuperGrok国内订阅指南' }],
+    ['meta', { property: 'og:description', content: '2026年4月最新Grok官网充值与SuperGrok国内订阅指南，覆盖Grok官网入口、Grok代充、Grok充值和SuperGrok开通方式。无需密码仅凭账号ID，微信支付宝直付，5分钟到账。' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://grok-recharge.com' }],
     ['meta', { property: 'og:site_name', content: 'Grok代充平台' }],
@@ -32,8 +32,8 @@ export default defineConfig({
 
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Grok代充 - SuperGrok代充值 | 微信支付宝直付' }],
-    ['meta', { name: 'twitter:description', content: '专业Grok代充平台。SuperGrok会员代充值，Grok4模型解锁，5分钟到账，安全零封号。' }],
+    ['meta', { name: 'twitter:title', content: 'Grok官网 | Grok代充 | Grok充值 | SuperGrok国内订阅指南' }],
+    ['meta', { name: 'twitter:description', content: '2026年4月最新Grok官网充值与SuperGrok国内订阅指南，覆盖Grok官网入口、Grok代充、Grok充值和SuperGrok开通方式。无需密码仅凭账号ID，微信支付宝直付，5分钟到账。' }],
 
     // Bing Webmaster 验证（已通过 BingSiteAuth.xml 验证）
     ['meta', { name: 'msvalidate.01', content: '283F4ED132291BB65C882E27214A15B8' }],
@@ -127,6 +127,7 @@ export default defineConfig({
         {
           text: 'Grok代充教程',
           items: [
+            { text: '2026年04月最新：Grok会员怎么开通？国内订阅、代充流程、套餐区别与常见问题全指南', link: '/guide/grok-member-2026-04' },
             { text: 'Grok会员怎么订阅？国内开通SuperGrok完整教程【2026年04月最新】', link: '/guide/grok-member-subscribe-guide-2026-04' },
             { text: 'Grok会员怎么开通？2026年04月国内最新订阅教程（支付宝/微信）', link: '/guide/grok-huiyuan-subscribe-guide-2026-04-428' },
             { text: 'Grok会员完整指南：国内如何订阅SuperGrok？2026年04月最新教程', link: '/guide/grok-huiyuan-subscribe-guide-2026-04-427-2' },
