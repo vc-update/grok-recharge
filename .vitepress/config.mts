@@ -127,6 +127,7 @@ export default defineConfig({
         {
           text: 'Grok代充教程',
           items: [
+            { text: '"Grok会员怎么选？2026年04月最新套餐对比、开通步骤与避坑指南"', link: '/guide/grok-membership-guide-2026-04' },
             { text: '2026年04月最新：Grok会员怎么开通？国内订阅、代充流程、套餐区别与常见问题全指南', link: '/guide/grok-member-2026-04' },
             { text: 'Grok会员怎么订阅？国内开通SuperGrok完整教程【2026年04月最新】', link: '/guide/grok-member-subscribe-guide-2026-04' },
             { text: 'Grok会员怎么开通？2026年04月国内最新订阅教程（支付宝/微信）', link: '/guide/grok-huiyuan-subscribe-guide-2026-04-428' },
