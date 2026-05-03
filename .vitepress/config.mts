@@ -127,6 +127,7 @@ export default defineConfig({
         {
           text: 'Grok代充教程',
           items: [
+            { text: 'Grok会员完整指南：SuperGrok订阅功能详解与国内代充教程（2026年05月最新）', link: '/guide/grok-member-subscription-guide-202605' },
             { text: 'Grok会员完整指南：功能介绍、套餐对比与国内代充教程（2026年05月最新）', link: '/guide/grok-huiyuan-guide-202605' },
             { text: '2026年05月最新：Grok会员怎么开通？套餐区别、代充流程、避坑指南一次讲清', link: '/guide/grok-member-guide-2026-05' },
             { text: '2026年05月最新：Grok会员怎么开通？国内订阅、代充流程、套餐区别与常见问题全解', link: '/guide/grok-member-2026-05' },
