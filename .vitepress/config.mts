@@ -127,6 +127,8 @@ export default defineConfig({
         {
           text: 'Grok代充教程',
           items: [
+            { text: '"2026年05月最新 Grok代充完整指南：国内如何安全开通 Grok / SuperGrok 会员"', link: '/guide/grok-daichong-2026-05' },
+            { text: 'Grok代充完整指南：SuperGrok会员、充值流程与风险避坑', link: '/guide/grok-daichong-complete-guide-2026-05' },
             { text: '"Grok代充全攻略（2026年05月最新）：国内安全开通 SuperGrok / Grok 4 的完整教程"', link: '/guide/grok-daichong-guide-2026-05' },
             { text: '"Grok代充全攻略：2026年05月国内开通 SuperGrok / Grok 4 的安全充值教程"', link: '/guide/grok-recharge-guide-2026-05' },
             { text: 'Grok代充 2026年05月最新教程｜国内充值Grok订阅完整指南', link: '/guide/grok-recharge-guide-202605' },
