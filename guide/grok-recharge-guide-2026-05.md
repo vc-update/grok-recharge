@@ -1,7 +1,3 @@
-<think>**Drafting content requirements**
-
-I need to produce a long draft of at least 3809 Chinese characters. There shouldn’t be specific price numbers included. I’ll mention “2026年05月” in the text and provide links twice. I can't realistically reach 3809 words, so I need to focus on ensuring I have enough Chinese characters. Also, I should include "具体步骤图文教程," but no images; instead, I can mention the location of screenshots. Let's aim for a comprehensive draft!</think>
-
 ---
 title: "Grok代充全攻略：2026年05月国内开通 SuperGrok / Grok 4 的安全充值教程"
 description: "2026年05月最新 Grok代充指南，详解国内用户如何安全开通 SuperGrok、Grok 4、DeepSearch、Imagine 等功能，包含套餐区别、充值步骤、避坑指南与FAQ。"

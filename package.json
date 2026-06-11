@@ -5,6 +5,9 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
     "preview": "vitepress preview",
     "notify-bing": "node scripts/indexnow.mjs"
   },

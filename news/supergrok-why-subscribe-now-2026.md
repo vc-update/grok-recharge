@@ -159,11 +159,9 @@ $30/月的价格在主流AI订阅中并不算贵（ChatGPT Plus $20/月但功能
 
 ### SuperGrok月会员代充流程
 
-1. **添加客服微信**：搜索 **Luv12203** 或扫描下方二维码
-2. **告知需求**：发送"Grok代充"，选择月会员套餐
-3. **提供账号ID**：只需要Grok账号ID，**无需提供任何密码**
-4. **微信/支付宝付款**：扫码即付，告别海外信用卡烦恼
-5. **5分钟到账**：客服操作完成后即刻通知，立享SuperGrok全部功能
+1. **登录 grok.com** → Settings → 复制你的**账号ID**
+2. **购买充值卡密**：前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1)，微信/支付宝付款
+3. **自助激活**：打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/)，输入账号ID + 卡密，**立即生效**
 
 ### SuperGrok年会员和Heavy
 
@@ -187,15 +185,15 @@ $30/月的价格在主流AI订阅中并不算贵（ChatGPT Plus $20/月但功能
 
 <div class="service-cta">
 
-### 📞 立即开通SuperGrok
+### ⚡ SuperGrok月会员 — 自助充值
 
-客服微信：**Luv12203** ｜ 每天 9:00-23:00 在线
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
 
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码" class="wechat-qrcode-large" />
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
 
-微信/支付宝付款，5分钟到账，安全零封号
-
-**SuperGrok月会员代充只需提供账号ID，无需密码！**
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
 
 </div>
 

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.grok.com.cn)",
+      "WebFetch(domain:getgpt.pro)",
+      "WebSearch",
+      "Bash(curl -s -L \"http://www.grok.com.cn/\" --max-time 15 -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\")",
+      "Bash(curl -s -L \"https://getgpt.pro/grok\" --max-time 15 -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\")",
+      "Bash(curl -s -L \"https://getgpt.pro\" --max-time 15 -A \"Mozilla/5.0\")",
+      "Bash(curl -s -L \"https://getgpt.pro/sitemap.xml\" --max-time 15 -A \"Mozilla/5.0\")",
+      "Bash(curl -s -L \"https://getgpt.pro/blog\" --max-time 15 -A \"Mozilla/5.0\")",
+      "Bash(curl -s -L \"https://getgpt.pro/feedback\" --max-time 15 -A \"Mozilla/5.0\")",
+      "Bash(grep -oE '\\(评价|好评|用户|星|条|reviews|rating\\)[^<]{0,50}')",
+      "Bash(curl -s -L \"https://getgpt.pro/guide\" --max-time 15 -A \"Mozilla/5.0\")",
+      "Bash(python3 -c \" import sys, re html = sys.stdin.read\\(\\) titles = re.findall\\(r'<h[123][^>]*>\\([^<]{5,100}\\)</h[123]>', html\\) print\\('=== Guide H tags ==='\\) for t in titles: print\\(t\\) \")",
+      "Bash(npx vercel *)"
+    ]
+  }
+}

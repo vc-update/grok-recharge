@@ -158,12 +158,18 @@ SuperGrok 月会员支持 Grok 4.2 的四Agent并行模式：
 - **微信/支付宝直付**
 - **5分钟到账**，立即解锁 Grok 4 / Grok 4.2 所有功能
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>🔥 立即开通SuperGrok，体验Grok4</h3>
-    <p>添加客服微信 <strong>Luv12203</strong>，发送「SuperGrok代充」，5分钟解锁Grok4完整版！</p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="SuperGrok代充客服微信二维码 Luv12203" />
+<div class="service-cta">
+
+### ⚡ SuperGrok月会员 — 自助充值
+
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
 </div>
 
 ---
@@ -198,12 +204,14 @@ SuperGrok 月会员支持 Grok 4.2 的四Agent并行模式：
 
 <div class="service-cta">
 
-### 开通SuperGrok，体验Grok4的全部能力
+### ⚡ SuperGrok月会员 — 自助充值
 
-客服微信：**Luv12203** ｜ 每天 9:00-23:00 在线
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
 
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="SuperGrok代充客服微信二维码" class="wechat-qrcode" />
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
 
-微信/支付宝付款，5分钟到账
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
 
 </div>

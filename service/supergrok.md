@@ -60,7 +60,6 @@ Grok 4.2在中文能力和创作方面进一步优化，中文输出自然度接
 |:---|:---|:---|
 | **SuperGrok 月付** | $30/月 | 灵活订阅，随时取消 |
 | **SuperGrok 年付** | $300/年（$25/月） | 省17%，长期最划算 |
-| **SuperGrok Heavy** | $300/月 | Grok 4 Heavy + 多代理协作 |
 
 **推荐方案**：大多数用户选月付$30先体验，确认满意后转年付省17%。
 
@@ -74,9 +73,9 @@ SuperGrok官方只支持海外信用卡。国内银行卡（包括Visa/Mastercar
 
 我们**只需要你的Grok账号ID**（一串数字/字母，不是密码）。充值过程你的账号安全完全不受影响。
 
-### 3. 5分钟到账
+### 3. 月会员全自动到账
 
-加微信 → 选方案 → 提供ID → 付款 → 到账。全程最快5分钟。
+月会员：购买卡密 → 输入账号ID → 立即生效，全程自助操作，不需要等待。年会员联系客服，5分钟内完成。
 
 ### 4. 零封号风险
 
@@ -87,14 +86,63 @@ SuperGrok官方只支持海外信用卡。国内银行卡（包括Visa/Mastercar
 1. 登录 [grok.com](https://grok.com)
 2. 点击右上角头像 → 设置
 3. 找到「账号信息」中的用户ID
-4. 复制发送给客服即可
+4. 复制账号ID备用
 
-如果找不到ID，添加客服微信后我们会手把手教你。
+充值全程只需账号ID，**绝不需要密码**。
+
+<div class="service-cta">
+
+### ⚡ 月会员 — 自助充值（推荐）
+
+👉 **[立即购买卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)**
+
+购买卡密后，前往 **[quickplus.vip/public/grok/](https://quickplus.vip/public/grok/)** 输入账号ID和卡密，立即生效！
+
+</div>
 
 <div class="wechat-cta">
   <div class="text">
-    <h3>⚡ 立即开通SuperGrok</h3>
-    <p>微信搜索 <strong>Luv12203</strong> 或扫码添加客服，发送「开通SuperGrok」，5分钟搞定。</p>
+    <h3>💳 年会员 — 联系客服</h3>
+    <p>年会员（$300/年）请微信搜索 <strong>Luv12203</strong> 或扫码添加客服，发送「开通SuperGrok」。</p>
   </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
+  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员代充客服微信二维码 Luv12203" />
 </div>
+
+## 用户真实评价
+
+真实客户手动充值后的微信截图：
+
+<div class="testimonials-grid">
+  <div class="testimonial-card">
+    <div class="stars">★★★★★</div>
+    <img src="/1.jpg" alt="SuperGrok充值成功客户微信截图1" style="width:100%;border-radius:8px;margin:10px 0;" />
+    <div class="reviewer">— 真实客户微信截图</div>
+  </div>
+  <div class="testimonial-card">
+    <div class="stars">★★★★★</div>
+    <img src="/2.jpg" alt="SuperGrok充值成功客户微信截图2" style="width:100%;border-radius:8px;margin:10px 0;" />
+    <div class="reviewer">— 真实客户微信截图</div>
+  </div>
+  <div class="testimonial-card">
+    <div class="stars">★★★★★</div>
+    <p class="review-text">「之前担心安全问题，后来发现确实不需要密码，只给了账号ID就充值成功了，靠谱」</p>
+    <div class="reviewer">— 北京用户 @l**n，2026年4月</div>
+  </div>
+  <div class="testimonial-card">
+    <div class="stars">★★★★★</div>
+    <p class="review-text">「支付宝扫码就付款，价格比其他平台便宜，而且是充到自己账号，放心」</p>
+    <div class="reviewer">— 杭州用户 @h**g，2026年4月</div>
+  </div>
+  <div class="testimonial-card">
+    <div class="stars">★★★★★</div>
+    <p class="review-text">「用Grok4写代码，比GPT-4o强多了，早该充了，下次直接续费不犹豫」</p>
+    <div class="reviewer">— 成都用户 @c**u，2026年3月</div>
+  </div>
+  <div class="testimonial-card">
+    <div class="stars">★★★★★</div>
+    <p class="review-text">「年会员找客服Luv12203办理，5分钟搞定，省了60美元，强烈推荐年付」</p>
+    <div class="reviewer">— 深圳用户 @w**i，2026年3月</div>
+  </div>
+</div>
+
+👉 [查看全部用户评价（含更多截图）→](/testimonials)

@@ -116,57 +116,35 @@ xAI 用的是 Stripe 支付系统，这个系统会自动识别信用卡的发�
 
 ---
 
-### 🔵 Step 2：添加客服微信
+### 🔵 Step 2：购买充值卡密
 
-打开微信，搜索 **Luv12203** 添加好友，或扫描下方二维码：
-
-<div class="wechat-cta">
-  <div class="text">
-    <h3>📱 扫码添加Grok代充客服</h3>
-    <p>微信号：<strong>Luv12203</strong><br/>发送「Grok代充」即可开始</p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
-</div>
+前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1)，微信或支付宝付款，获取卡密。
 
 ---
 
-### 🔵 Step 3：选择套餐，发送账号ID
+### 🔵 Step 3：自助激活
 
-跟客服说你要充的套餐：
-
-- **"SuperGrok月付"** → 最常选的
-- **"SuperGrok年付"** → 长期用户
-- **"SuperGrok Heavy"** → 重度用户
-
-然后把 Step 1 复制的 **User ID** 发给客服。
+打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/)，输入 Step 1 复制的账号ID 和 Step 2 获取的卡密，立即生效。
 
 ::: danger ⚠️ 安全提醒
-正规 Grok 代充 **永远只要 User ID，绝对不要密码**。如果有人问你要密码，立刻拉黑。
+正规 Grok 充值 **永远只要 User ID，绝对不要密码**。如果有人问你要密码，立刻拉黑。
+:::
+
+::: tip 年会员/Heavy 套餐
+**SuperGrok 年付**和 **Heavy** 套餐请联系客服微信 **Luv12203** 办理。
 :::
 
 ---
 
-### 🔵 Step 4：微信/支付宝扫码付款
+### 🔵 Step 4：等待升级（立即生效）
 
-客服会发送收款码。微信或支付宝扫码付款即可。
-
-**付款后一定要截图保存凭证！**
-
----
-
-### 🔵 Step 5：等待升级（5分钟）
-
-付款后客服开始操作：
-
-- 一般 **5 分钟以内** 完成
-- 完成后客服会通知你
-- 你也可以自己刷新 grok.com 查看
+提交后立即生效。刷新 grok.com 即可确认。
 
 **确认升级成功的标志：** 页面左上角出现 SuperGrok 标识，或者尝试使用 Grok 4 / DeepSearch / Think 功能。
 
 ---
 
-### 🔵 Step 6：升级后安全检查
+### 🔵 Step 5：升级后安全检查
 
 确认成功后，做两件事：
 
@@ -183,7 +161,7 @@ xAI 用的是 Stripe 支付系统，这个系统会自动识别信用卡的发�
 
 - 随时可以停，没有锁定期
 - 功能完整，Grok 4 / DeepSearch / Think / 多Agent 全部解锁
-- 月付只需告诉客服 User ID，流程最简单
+- 月付自助充值，只需账号ID + 卡密，立即生效
 
 ### 4.2 年付 $300/年 — 老用户省钱
 
@@ -256,7 +234,7 @@ xAI 用的是 Stripe 支付系统，这个系统会自动识别信用卡的发�
 
 ### Q：到期后怎么续费？
 
-到期前联系客服微信 Luv12203 续充即可。客服会提前提醒。
+月会员到期后重新购买卡密激活即可。年会员续费请联系客服微信 Luv12203。
 
 ### Q：退款政策是什么？
 
@@ -287,19 +265,24 @@ Grok Super 是网页端订阅，不走 Apple/Google 支付。代充方式统一�
 
 **Grok国内如何充值？** 答案很简单：
 
-1. 登录 grok.com，复制 User ID
-2. 微信搜 **Luv12203**，发送「Grok代充」
-3. 选套餐，发ID，扫码付款
-4. 5分钟到账，开始使用
+1. 登录 grok.com → Settings → 复制 User ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
 
 **不需要海外银行卡，不需要虚拟卡，不需要任何技术操作。** 已经有 5000+ 国内用户通过这个方式成功开通了 SuperGrok。
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>🚀 现在就开通SuperGrok</h3>
-    <p>微信搜索 <strong>Luv12203</strong> 或扫码添加客服<br/>发送「Grok代充」→ 选套餐 → 发ID → 扫码付 → 5分钟到账！</p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
+<div class="service-cta">
+
+### ⚡ SuperGrok月会员 — 自助充值
+
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
 </div>
 
 ---
@@ -312,15 +295,3 @@ Grok Super 是网页端订阅，不走 Apple/Google 支付。代充方式统一�
 - 📊 [SuperGrok vs 免费版Grok：值不值得花$30？](/blog/supergrok-vs-free)
 - 🏢 [SuperGrok Heavy充值开通教程](/blog/supergrok-heavy-recharge-guide)
 - 🧠 [Grok4完整功能解析：中国用户使用指南](/blog/grok4-features-chinese-guide)
-
-<div class="service-cta">
-
-### 📞 Grok代充就找我们
-
-客服微信：**Luv12203** ｜ 每天 9:00-23:00 在线
-
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码" class="wechat-qrcode" />
-
-微信/支付宝付款，只需账号ID，5分钟到账，零封号风险
-
-</div>

@@ -97,15 +97,12 @@ xAI 封号的原因通常是违反使用条款（如批量注册、异常使用�
 发给客服的是 **User ID（账号ID）**，不是你的账号密码。正规 **Grok 代充** 永远不会索要密码。
 :::
 
-### Step 3：联系客服，选择套餐
+### Step 3：购买卡密并激活（月付）
 
-添加客服微信 **Luv12203**，发送「Grok代充」，告知你需要的套餐：
+**SuperGrok 月付自助充值流程：**
 
-| 套餐 | 价格 | 适合人群 |
-|:---|:---|:---|
-| **SuperGrok 月付** | **$30/月** | 大多数用户首选 |
-| SuperGrok 年付 | $300/年（$25/月） | 长期用户省17% |
-| SuperGrok Heavy | $300/月 | 企业/专业团队 |
+1. 前往 [chatgpta1.top/item/1](https://chatgpta1.top/item/1)，微信或支付宝付款，获取卡密
+2. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/)，输入账号ID + 卡密，立即生效
 
 ::: tip 年会员和Heavy
 SuperGrok 年会员和 Heavy 的充值方式与月付略有不同，请联系客服微信 **Luv12203** 咨询具体流程。
@@ -113,26 +110,32 @@ SuperGrok 年会员和 Heavy 的充值方式与月付略有不同，请联系客
 
 ### Step 4：发送账号 ID
 
-将 Grok User ID 发给客服。全程只需要 ID，不需要密码。
+将 Grok User ID 填入激活页面。全程只需要 ID，不需要密码。
 
 ### Step 5：扫码付款
 
-客服发送收款码，微信或支付宝扫码支付。**付款后截图保存凭证**，这步很重要。
+在 chatgpta1.top 购买卡密时，微信或支付宝扫码支付。**付款后截图保存凭证**，这步很重要。
 
-### Step 6：5分钟到账
+### Step 6：立即到账
 
-通常 5 分钟以内完成。刷新 grok.com，左上角出现 **SuperGrok 标识**即为成功。
+通常立即完成。刷新 grok.com，左上角出现 **SuperGrok 标识**即为成功。
 
 ### Step 7：检查账号安全
 
 确认升级成功后，建议开启两步验证（Settings → Security），保障账号安全。
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>🔥 立即Grok代充，5分钟开通SuperGrok</h3>
-    <p>添加客服微信 <strong>Luv12203</strong>，发送「Grok代充」，只需账号ID，微信/支付宝直付！</p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
+<div class="service-cta">
+
+### ⚡ SuperGrok月会员 — 自助充值
+
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
 </div>
 
 ---
@@ -256,16 +259,22 @@ X Premium+ 是 X 平台的社交订阅（去广告、蓝标），附带少量 Gr
 
 ## 总结
 
-2026年 **Grok 国内充值** 的最优路径：找专业代充平台，支付宝或微信付款，5分钟搞定。
+2026年 **Grok 国内充值** 的最优路径：月会员自助充值，支付宝或微信付款，立即搞定。
 
 核心三点：**选靠谱的平台、不给密码只给ID、保留付款截图。**
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>🔥 国内Grok代充首选平台</h3>
-    <p>微信搜索 <strong>Luv12203</strong> 或扫码添加客服，发送「Grok代充」。<br/>微信/支付宝付款，5分钟到账，5000+用户信赖，零封号风险。</p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
+<div class="service-cta">
+
+### ⚡ SuperGrok月会员 — 自助充值
+
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
 </div>
 
 ---
@@ -278,15 +287,3 @@ X Premium+ 是 X 平台的社交订阅（去广告、蓝标），附带少量 Gr
 - 📊 [SuperGrok vs 免费版Grok：值不值得花$30？](/blog/supergrok-vs-free)
 - 🧠 [Grok4完整功能解析](/blog/grok4-features-chinese-guide)
 - 🔍 [Grok4 DeepSearch深度搜索实测](/news/grok4-deepsearch-guide)
-
-<div class="service-cta">
-
-### 立即Grok代充，5分钟开通SuperGrok
-
-客服微信：**Luv12203** ｜ 每天 9:00-23:00 在线
-
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码" class="wechat-qrcode" />
-
-微信/支付宝付款，只需账号ID，零封号风险
-
-</div>

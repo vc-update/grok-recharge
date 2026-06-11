@@ -197,12 +197,18 @@ SuperGrok月付官方价格$30/月，代充合理价格通常在 **220-270元/�
 
 ---
 
-<div class="wechat-cta">
-  <div class="text">
-    <h3>🔒 安全Grok代充，找我们就对了</h3>
-    <p>只需账号ID，微信/支付宝付款，5分钟到账。客服微信：<strong>Luv12203</strong></p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok代充客服微信二维码 Luv12203" />
+<div class="service-cta">
+
+### ⚡ SuperGrok月会员 — 自助充值
+
+1. 登录 grok.com → Settings → 复制账号ID
+2. [购买充值卡密 → chatgpta1.top/item/1](https://chatgpta1.top/item/1)（微信/支付宝付款）
+3. 打开 [quickplus.vip/public/grok/](https://quickplus.vip/public/grok/) 输入账号ID和卡密，立即生效
+
+**年会员/Heavy套餐**：联系客服微信 **Luv12203**
+
+<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode" />
+
 </div>
 
 **相关阅读**：
