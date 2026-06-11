@@ -127,6 +127,7 @@ export default defineConfig({
         {
           text: 'Grok代充教程',
           items: [
+            { text: 'Grok Build 完全指南：xAI 终端原生 AI 编程智能体安装、订阅与代充值教程（2026年6月最新）', link: '/guide/grok-build-guide-2026-06' },
             { text: 'Grok订阅完全指南：2026年5月最新套餐对比、订阅流程与避坑攻略', link: '/guide/auto-article-1779118724223' },
             { text: 'Grok订阅完全指南：2026年05月最新版本对比、充值流程与避坑攻略', link: '/guide/auto-article-1778901778769' },
             { text: 'Grok订阅完整指南：2026年05月最新套餐对比与代充值教程', link: '/guide/grok-subscription-guide-2026-05-511' },
