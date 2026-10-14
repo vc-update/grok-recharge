@@ -56,13 +56,6 @@ head:
 
 ---
 
-## 💳 年会员 — 联系客服微信
-
-年会员（$300/年）套餐需要联系客服微信手动办理：
-
-<div style="text-align: center; padding: 40px 0;">
-
-<img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员代充客服微信二维码 Luv12203" class="wechat-qrcode-large" />
 ## 💳 年会员 / Heavy — 联系客服微信
 
 年会员（$300/年）和Heavy（$300/月）套餐需要联系客服微信手动办理：
@@ -79,9 +72,6 @@ head:
 
 </div>
 
-### 年会员客服能帮你什么？
-
-- ✅ SuperGrok 年会员（$300/年，省17%）开通
 ### 年会员/Heavy客服能帮你什么？
 
 - ✅ SuperGrok 年会员（$300/年，省17%）开通
