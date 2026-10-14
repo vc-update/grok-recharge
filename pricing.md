@@ -97,11 +97,8 @@ SuperGrok官方只支持海外信用卡，国内银行卡无法直接支付。
 
 **月会员：全自动自助充值**，购买卡密后输入账号ID立即生效，支持微信/支付宝付款。
 
-<<<<<<< HEAD
 **年会员：** 联系客服微信 **Luv12203** 办理，同样支持微信/支付宝。
-=======
 **年会员/Heavy：** 联系客服微信 **Luv12203** 办理，同样支持微信/支付宝。
->>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 
 只需提供Grok账号ID（不需要密码），安全零封号。
 
@@ -117,15 +114,12 @@ SuperGrok官方只支持海外信用卡，国内银行卡无法直接支付。
 
 <div class="wechat-cta">
   <div class="text">
-<<<<<<< HEAD
     <h3>💳 年会员 — 联系客服</h3>
     <p>添加微信 <strong>Luv12203</strong>，告诉我们你的需求，即刻获取最新人民币报价。</p>
   </div>
   <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员代充客服微信二维码 Luv12203" />
-=======
     <h3>💳 年会员/Heavy — 联系客服</h3>
     <p>添加微信 <strong>Luv12203</strong>，告诉我们你的需求，即刻获取最新人民币报价。</p>
   </div>
   <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员/Heavy代充客服微信二维码 Luv12203" />
->>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 </div>

@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
-title: Grok代充 - 月会员自助充值 | 年会员联系客服
-description: SuperGrok月会员全自动代充，购买卡密后输入账号ID立即生效，无需等待。年会员请联系客服微信Luv12203办理。
-=======
-title: Grok代充 - 月会员自助充值 | 年会员/Heavy联系客服
+title: "Grok代充 - 月会员自助充值 | 年会员/Heavy联系客服"
 description: SuperGrok月会员全自动代充，购买卡密后输入账号ID立即生效，无需等待。年会员和Heavy套餐请联系客服微信Luv12203办理。
->>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 head:
   - - meta
     - name: keywords
@@ -61,7 +56,6 @@ head:
 
 ---
 
-<<<<<<< HEAD
 ## 💳 年会员 — 联系客服微信
 
 年会员（$300/年）套餐需要联系客服微信手动办理：
@@ -69,7 +63,6 @@ head:
 <div style="text-align: center; padding: 40px 0;">
 
 <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员代充客服微信二维码 Luv12203" class="wechat-qrcode-large" />
-=======
 ## 💳 年会员 / Heavy — 联系客服微信
 
 年会员（$300/年）和Heavy（$300/月）套餐需要联系客服微信手动办理：
@@ -77,7 +70,6 @@ head:
 <div style="text-align: center; padding: 40px 0;">
 
 <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="Grok年会员/Heavy代充客服微信二维码 Luv12203" class="wechat-qrcode-large" />
->>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 
 ### 微信号：Luv12203
 
@@ -87,16 +79,13 @@ head:
 
 </div>
 
-<<<<<<< HEAD
 ### 年会员客服能帮你什么？
 
 - ✅ SuperGrok 年会员（$300/年，省17%）开通
-=======
 ### 年会员/Heavy客服能帮你什么？
 
 - ✅ SuperGrok 年会员（$300/年，省17%）开通
 - ✅ SuperGrok Heavy（$300/月）开通
->>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 - ✅ Claude Max 代充（$100/$200/月）
 - ✅ Gemini Advanced 代充（$19.99/月）
 - ✅ 充值售后、续费、使用问题解答
