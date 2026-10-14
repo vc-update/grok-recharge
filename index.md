@@ -121,7 +121,6 @@ features:
   </div>
 </div>
 
-> 年会员请联系客服微信 **Luv12203** 办理
 > 年会员和Heavy套餐请联系客服微信 **Luv12203** 办理
 
 ## 为什么免费版Grok不够用？
@@ -148,9 +147,6 @@ features:
   <div class="text">
     <h3>🔥 现在就开始Grok月会员代充</h3>
     <p>👉 <a href="https://chatgpta1.top/"><strong>点击购买卡密</strong></a>，然后前往 quickplus.vip/public/grok/ 输入账号ID和卡密即可完成充值！</p>
-    <p>年会员请联系客服微信 <strong>Luv12203</strong></p>
-  </div>
-  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员代充客服微信二维码 Luv12203" />
     <p>年会员/Heavy套餐请联系客服微信 <strong>Luv12203</strong></p>
   </div>
   <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" />
@@ -208,6 +204,4 @@ SuperGrok月会员$30/月，适合大多数用户；年会员$300/年（省17%�
 <div class="answer">
 SuperGrok只接受海外信用卡（Visa/MasterCard）付款，国内银行卡、微信、支付宝均无法直接支付。通过我们的Grok代充服务，您可以用微信/支付宝轻松完成充值，无需办理海外银行卡。
 </div>
-</details>
-
 </details>
