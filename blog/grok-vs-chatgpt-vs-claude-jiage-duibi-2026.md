@@ -768,4 +768,4 @@ ChatGPT用于：
 **相关阅读：**
 - [SuperGrok详细价格指南](/blog/grok-huiyuan-duoshao-qian-2026)
 - [Grok4功能深度评测](/blog/grok4-review)
-- [Claude vs ChatGPT编程能力对比](/blog/claude-vs-chatgpt-coding-2026)
+- [Grok vs ChatGPT vs Claude横评](/blog/grok4-vs-chatgpt5-2026)
