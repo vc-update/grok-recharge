@@ -1,7 +1,12 @@
 ---
 layout: home
+<<<<<<< HEAD
 title: Grok官网 | Grok代充 | Grok充值 | SuperGrok国内订阅指南
 description: 2026年4月最新Grok官网充值与SuperGrok国内订阅指南。覆盖Grok官网入口、Grok代充、Grok充值与SuperGrok开通方式，无需密码仅凭账号ID，微信支付宝直付，5分钟极速到账。
+=======
+title: Grok代充 | Grok充值 | Grok订阅 | 国内如何使用Grok
+description: 2026年4月最新Grok代充平台，SuperGrok会员代充值服务。无需密码仅凭账号ID，微信支付宝直付，5分钟极速到账。解锁Grok4/Grok4.2旗舰模型，安全零封号，已服务5000+国内用户。提供月会员/年会员/Heavy三档代充方案。
+>>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 head:
   - - meta
     - name: keywords
@@ -39,8 +44,13 @@ features:
     title: 告别每日限额
     details: 免费版每2小时仅10次对话？SuperGrok让你敞开用，不再数着次数聊天。
   - icon: 👨‍💼
+<<<<<<< HEAD
     title: 年会员专属客服
     details: 年会员套餐请联系客服微信Luv12203一对一办理，安全高效。
+=======
+    title: 年会员/Heavy专属客服
+    details: 年会员/Heavy套餐请联系客服微信Luv12203一对一办理，安全高效。
+>>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 ---
 
 <div class="trust-bar">
@@ -85,6 +95,19 @@ features:
       <li>年付省下$60，长期更划算</li>
       <li>一次开通全年无忧</li>
       <li>联系客服微信 Luv12203 办理</li>
+<<<<<<< HEAD
+=======
+    </ul>
+  </div>
+  <div class="pricing-card">
+    <div class="plan-name">SuperGrok Heavy</div>
+    <div class="price">$300<small>/月</small></div>
+    <ul>
+      <li>最高级别 Grok4 使用额度</li>
+      <li>10倍于普通会员的调用量</li>
+      <li>适合重度用户/团队/企业</li>
+      <li>联系客服微信 Luv12203 办理</li>
+>>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
     </ul>
   </div>
 </div>
@@ -111,7 +134,11 @@ features:
   </div>
 </div>
 
+<<<<<<< HEAD
 > 年会员请联系客服微信 **Luv12203** 办理
+=======
+> 年会员和Heavy套餐请联系客服微信 **Luv12203** 办理
+>>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 
 ## 为什么免费版Grok不够用？
 
@@ -137,9 +164,15 @@ features:
   <div class="text">
     <h3>🔥 现在就开始Grok月会员代充</h3>
     <p>👉 <a href="https://chatgpta1.top/"><strong>点击购买卡密</strong></a>，然后前往 quickplus.vip/public/grok/ 输入账号ID和卡密即可完成充值！</p>
+<<<<<<< HEAD
     <p>年会员请联系客服微信 <strong>Luv12203</strong></p>
   </div>
   <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员代充客服微信二维码 Luv12203" />
+=======
+    <p>年会员/Heavy套餐请联系客服微信 <strong>Luv12203</strong></p>
+  </div>
+  <img src="https://www.snakegpt.vip/file/system/others/1765252538015_mx1y.png" alt="年会员/Heavy代充客服微信二维码 Luv12203" />
+>>>>>>> 64c2670108596401261597ad3199fad11cad7a4d
 </div>
 
 ## 📰 最新Grok资讯（2026年4月更新）
