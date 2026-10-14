@@ -39,8 +39,6 @@ features:
     title: 告别每日限额
     details: 免费版每2小时仅10次对话？SuperGrok让你敞开用，不再数着次数聊天。
   - icon: 👨‍💼
-    title: 年会员专属客服
-    details: 年会员套餐请联系客服微信Luv12203一对一办理，安全高效。
     title: 年会员/Heavy专属客服
     details: 年会员/Heavy套餐请联系客服微信Luv12203一对一办理，安全高效。
 ---
