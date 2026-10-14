@@ -28,6 +28,14 @@ lastUpdated: 2026-10-14
 
 这篇文章总结了**5种最常见的充值失败原因**，并提供经过验证的解决方案。
 
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; text-align: center; margin: 30px 0;">
+  <p style="color: white; font-size: 18px; font-weight: bold; margin-bottom: 15px;">🎯 SuperGrok月会员自助充值</p>
+  <a href="https://chatgpta1.top/" target="_blank" style="display: inline-block; background: white; color: #667eea; padding: 12px 32px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 16px;">
+    👉 立即购买卡密（微信/支付宝）
+  </a>
+  <p style="color: rgba(255,255,255,0.9); font-size: 14px; margin-top: 15px;">年会员/Heavy套餐请联系客服微信：<strong>Luv12203</strong></p>
+</div>
+
 ---
 
 ## 一、充值失败的5大原因

@@ -25,6 +25,14 @@ xAI官网只接受海外信用卡，国内银行卡、微信、支付宝统统�
 
 这篇教程详细对比**3种国内充值方法**，手把手教你选最适合的方式，**5分钟搞定SuperGrok订阅**。
 
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; text-align: center; margin: 30px 0;">
+  <p style="color: white; font-size: 18px; font-weight: bold; margin-bottom: 15px;">🎯 SuperGrok月会员自助充值</p>
+  <a href="https://chatgpta1.top/" target="_blank" style="display: inline-block; background: white; color: #667eea; padding: 12px 32px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 16px;">
+    👉 立即购买卡密（微信/支付宝）
+  </a>
+  <p style="color: rgba(255,255,255,0.9); font-size: 14px; margin-top: 15px;">年会员/Heavy套餐请联系客服微信：<strong>Luv12203</strong></p>
+</div>
+
 ---
 
 ## 一、快速答案：国内充值SuperGrok的3种方法
